@@ -1,0 +1,11 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  
+  <groupId>pl.odwroconylink</groupId>
+  <artifactId>testMaven</artifactId>
+  <version>1.0</version>
+  <packaging>jar</packaging>
+  
+  <name>Hello Maven world</name>
+  
+</project>
